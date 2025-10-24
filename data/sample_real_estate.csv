@@ -1,0 +1,7 @@
+# CSV header (first line)
+id,location,latitude,longitude,area_sqft,bhk,age_years,bathrooms,furnished,parking,transaction_type,society_name,price
+
+# Example rows
+1,Whitefield,12.9716,77.5946,1200,3,5,2,Semi-Furnished,1,Resale,GreenHeights,9500000
+2,Indiranagar,12.9719,77.6412,850,2,2,1,Furnished,0,Resale,UrbanAura,6500000
+3,Bannerghatta,12.8760,77.5938,1500,4,8,3,Unfurnished,2,New,SkylineResidency,12500000
