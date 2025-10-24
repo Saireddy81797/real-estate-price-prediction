@@ -1,7 +1,8 @@
-streamlit==1.30.0
-pandas==2.2.2
-numpy==1.26.4
-scikit-learn==1.3.2
-matplotlib==3.8.3
-joblib==1.3.2
-pytest==7.4.2
+streamlit>=1.20.0
+pandas>=1.5
+numpy>=1.24
+scikit-learn>=1.2
+joblib>=1.2
+matplotlib>=3.6
+seaborn>=0.12   # optional for EDA only
+scikit-optimize>=0.9.0  # optional if you want hyperopt-like tuning
